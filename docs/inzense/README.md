@@ -228,7 +228,7 @@
 
 ### 4.1 集點卡列表
 
-前往 `/my/loyalty` 查看集點卡。
+前往 `/my/member-center/loyalty` 查看集點卡。
 
 ![集點卡列表](images/ch04_03_loyalty_list.png)
 
@@ -261,7 +261,7 @@
 
 ### 5.1 優惠券列表
 
-前往 `/my/coupon` 查看優惠券。
+前往 `/my/member-center/coupons` 查看優惠券。
 
 ![優惠券列表](images/ch05_01_coupon_list.png)
 
@@ -297,7 +297,7 @@
 
 ### 6.1 禮品卡列表
 
-前往 `/my/gift-card` 查看禮品卡。
+前往 `/my/member-center/gift-cards` 查看禮品卡。
 
 ![禮品卡列表](images/ch06_01_giftcard_list.png)
 
@@ -327,7 +327,7 @@
 
 ### 7.1 電子錢包列表
 
-前往 `/my/ewallet` 查看電子錢包。
+前往 `/my/member-center/ewallet` 查看電子錢包。
 
 ![電子錢包](images/ch07_01_ewallet_list.png)
 
