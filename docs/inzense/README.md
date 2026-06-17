@@ -190,7 +190,27 @@
 | 個人資料 | 修改姓名、Email、密碼 | `/my/account` |
 | 安全設定 | 啟用兩步驗證 (2FA) | `/my/security` |
 
-### 3.2 會員中心入口
+### 3.2 個人資料設定
+
+前往 `/my/account` 可修改個人資訊。
+
+![個人資料](images/ch03_05_portal_account.png)
+
+![個人資料完整](images/ch03_05_portal_account_full.png)
+
+可修改項目：姓名、Email、電話、地址、密碼。
+
+### 3.3 安全設定
+
+前往 `/my/security` 管理帳號安全。
+
+![安全設定](images/ch03_07_portal_security.png)
+
+功能：
+- 變更密碼
+- 啟用兩步驗證 (TOTP 2FA)
+
+### 3.4 會員中心入口
 
 ![會員中心](images/ch04_01_member_center.png)
 
@@ -225,6 +245,10 @@
 2. 結帳後系統自動依規則累積點數
 3. 累積的點數可於下次消費時折抵使用
 
+**完整集點卡頁面**：
+
+![集點卡完整](images/ch04_04_loyalty_list_full.png)
+
 ### 4.3 目前集點方案
 
 | 方案名稱 | 類型 | 點數單位 | 說明 |
@@ -241,6 +265,10 @@
 
 ![優惠券列表](images/ch05_01_coupon_list.png)
 
+**完整優惠券頁面**：
+
+![優惠券完整](images/ch05_01_coupon_list_full.png)
+
 ### 5.2 目前優惠券方案
 
 | 優惠券名稱 | 說明 | 使用方式 | 有效期限 |
@@ -253,6 +281,10 @@
 | 滿額贈-5800階 | 消費滿 NT$5,800 贈品 | 自動套用 | 2026-09-15 |
 | 滿額贈-8800階 | 消費滿 NT$8,800 贈品 | 自動套用 | 2026-09-15 |
 | 滿額贈-12800階 | 消費滿 NT$12,800 贈品 | 自動套用 | 2026-09-15 |
+
+**優惠券列表（另一視角）**：
+
+![優惠券列表2](images/ch05_02_coupon_list.png)
 
 ### 5.3 使用方式
 
@@ -269,12 +301,20 @@
 
 ![禮品卡列表](images/ch06_01_giftcard_list.png)
 
+**完整禮品卡頁面**：
+
+![禮品卡完整](images/ch06_01_giftcard_list_full.png)
+
 | 欄位 | 說明 |
 |------|------|
 | 計畫名稱 | 禪香不二 禮品卡 |
 | 餘額 | 剩餘可用金額（以「元」為單位，即 NT$） |
 | 到期日 | 卡片有效期限 |
 | 代碼 | 禮品卡兌換代碼 |
+
+**禮品卡列表（另一視角）**：
+
+![禮品卡列表2](images/ch06_02_giftcard_list.png)
 
 ### 6.2 使用方式
 
@@ -291,12 +331,20 @@
 
 ![電子錢包](images/ch07_01_ewallet_list.png)
 
+**完整電子錢包頁面**：
+
+![電子錢包完整](images/ch07_01_ewallet_list_full.png)
+
 | 欄位 | 說明 |
 |------|------|
 | 計畫名稱 | 禪香不二 電子錢包 |
 | 餘額 | 目前可用餘額（NT$） |
 | 代碼 | 錢包識別碼 |
 | 歷史紀錄 | 儲值與消費明細 |
+
+**電子錢包列表（另一視角）**：
+
+![電子錢包列表2](images/ch07_02_ewallet_list.png)
 
 ### 7.2 使用方式
 
@@ -992,6 +1040,11 @@
 | 登入 | ![手機登入](images/ch26_03_mobile_login.png) |
 | 會員中心 | ![手機會員中心](images/ch26_04_mobile_portal.png) |
 | 訂單 | ![手機訂單](images/ch26_05_mobile_orders.png) |
+
+| 會員中心 | ![手機會員中心](images/ch26_07_mobile_member_center.png) |
+| 集點卡 | ![手機集點卡](images/ch26_08_mobile_loyalty.png) |
+| 發票 | ![手機發票](images/ch26_09_mobile_invoices.png) |
+| 優惠券 | ![手機優惠券](images/ch26_10_mobile_coupons.png) |
 
 ### 26.2 手機選單操作
 
