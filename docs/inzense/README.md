@@ -170,6 +170,16 @@
 
 ![Portal 儀表板](images/ch03_01_portal_dashboard.png)
 
+**儀表板完整頁面**：
+
+![Portal 儀表板完整](images/ch03_02_portal_dashboard_full.png)
+
+**Portal 首頁**：
+
+![Portal 首頁](images/ch03_03_portal_home.png)
+
+![Portal 首頁完整](images/ch03_04_portal_home_full.png)
+
 儀表板提供以下快速入口：
 
 | 功能 | 說明 | 路徑 |
@@ -304,6 +314,8 @@
 
 ![訂單列表](images/ch08_01_orders_list.png)
 
+![訂單列表完整](images/ch08_02_orders_list_full.png)
+
 | 欄位 | 說明 |
 |------|------|
 | 訂單編號 | 如 S00138、S00139 等 |
@@ -316,6 +328,8 @@
 點擊訂單編號可查看明細。
 
 ![訂單詳情](images/ch08_03_order_detail.png)
+
+![訂單詳情完整](images/ch08_04_order_detail_full.png)
 
 詳情頁包含：
 - 訂單明細（商品名稱、數量、單價、小計）
@@ -343,6 +357,8 @@
 ### 9.2 發票詳情
 
 ![發票詳情](images/ch09_02_invoice_detail.png)
+
+![發票詳情完整](images/ch09_03_invoice_detail_full.png)
 
 可用功能：
 - **下載 PDF**：點擊「列印」按鈕下載發票 PDF
@@ -997,7 +1013,11 @@
 
 ### 27.1 首頁
 
-![首頁](images/ch01_01_homepage_hero.png)
+![首頁 Hero](images/ch01_01_homepage_hero.png)
+
+**首頁完整頁面（含全部五個區塊）**：
+
+![首頁完整](images/ch01_02_homepage_full.png)
 
 首頁包含五個區塊：
 
@@ -1012,6 +1032,10 @@
 ### 27.2 商品瀏覽
 
 ![商店頁面](images/ch01_03_shop_page.png)
+
+**完整商店頁面（含分類側邊欄）**：
+
+![商店完整頁面](images/ch01_04_shop_full.png)
 
 - **左側**：分類篩選欄（19 大分類可展開）
 - **右側**：商品卡片（圖片、名稱、NT$ 價格）
@@ -1031,6 +1055,10 @@
 
 ![關於我們](images/ch01_05_about_us.png)
 
+**關於我們完整頁面（品牌故事 + 聯絡資訊 + CRM 表單 + 服務項目）**：
+
+![關於我們完整](images/ch01_06_about_us_full.png)
+
 整合頁面包含：
 - 品牌故事（「不二」意味著唯一、純粹）
 - 三大理念：天然原料 / 台灣製造 / 純粹品質
@@ -1039,7 +1067,15 @@
 - 服務項目（經銷通路、配方研發、手作課程）
 - 公司地址與社群連結
 
-### 27.5 其他頁面
+### 27.5 聯絡我們
+
+![聯絡我們](images/ch01_07_contactus.png)
+
+**聯絡我們完整頁面**：
+
+![聯絡我們完整](images/ch01_08_contactus_full.png)
+
+### 27.6 其他頁面
 
 | 頁面 | 路徑 | 說明 |
 |------|------|------|
@@ -1047,7 +1083,10 @@
 | 退換貨政策 | `/return-policy` | 7天鑑賞期（消保法第19條）、退貨條件、退款方式 |
 | 聯絡我們 | `/contactus` | 聯絡表單（提交後自動建立 CRM 線索） |
 
-### 27.6 頁尾（Footer）
+![隱私政策](images/ch01_09_privacy_policy.png)
+![退換貨政策](images/ch01_10_return_policy.png)
+
+### 27.7 頁尾（Footer）
 
 頁尾採四欄式佈局：
 1. **品牌** — Logo + 「天然手工線香」
